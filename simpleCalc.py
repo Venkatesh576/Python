@@ -10,7 +10,7 @@ def divide(a,b):
     try:
         return a/b
     except:
-        print("err")
+        print("division with zero is not possible")
 
 
 def values():
