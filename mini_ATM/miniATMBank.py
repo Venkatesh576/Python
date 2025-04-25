@@ -1,7 +1,7 @@
-import samp as li
+import menu  as li
 import mysql_connector as sql
 
-class UserData(sql):
+class UserData:
 	def __init__(self):
 		pass
 		
